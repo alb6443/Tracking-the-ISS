@@ -9,5 +9,3 @@ services:
         ports:
           - 5000:5000
         image: alb6443/iss_tracker:midterm1
-        # volumes:
-        #   - ./config.yaml:/config.yaml
